@@ -1,6 +1,7 @@
 # Teltonika Router Monitoring
 
 This Python script is developed by **Oluwanifemi Ogunjemilua** and is designed to monitor a Teltonika router's real-time GSM-related metrics and network throughput. The collected data is stored in a MySQL database for further analysis and reporting. The program uses SSH for communication with the router, Paramiko for SSH connectivity, and MySQL Connector for database interaction.
+You can achieve real-time Visualization and customized dashboard by connecting database to Grafana
 
 ## Features
 
